@@ -1,0 +1,29 @@
+.card {
+	border: solid 6px #008080;
+	padding: 8px 4px;
+	margin-bottom: 12px;
+	/* max-width: 80; */
+}
+
+.card:hover,
+:active {
+	background-color: #008080;
+	transition: all 1s;
+}
+
+.card-img {
+	max-width: 80%;
+}
+
+.card-head {
+	/* font-size: px; */
+}
+
+.popup-content {
+	display: flex;
+	flex-direction: column;
+}
+
+.card-btn {
+	margin-bottom: 1.6rem;
+}

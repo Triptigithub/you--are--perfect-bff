@@ -1,0 +1,12 @@
+.cards-container {
+	margin-bottom: 8rem;
+}
+.card {
+	border: solid 2px black;
+	padding: 5px;
+	margin-bottom: 2rem;
+}
+.how-head {
+	margin-bottom: 2rem;
+	font-size: 54px;
+}
